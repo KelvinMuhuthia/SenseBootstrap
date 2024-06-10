@@ -1,0 +1,40 @@
+#main{
+    background-color: aqua;
+    color: #473822;
+    margin: 50px;
+    padding: 20px;
+    font-size: 19px;
+    font-style: italic;
+}
+
+
+#division{
+    padding: 30px;
+    margin-top: 90px;
+    background-color: brown;
+}
+
+#Courses{
+    text-align: center;
+    color: #473822;
+    background-color: aqua;
+    line-height: 100px;
+}
+.MyCourses{
+display: flex;
+}
+#course1{
+    background-color: cadetblue;
+    padding: 20px;
+}
+#course2{
+    background-color: darkkhaki;
+    padding: 20px;
+}
+#course3{
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+#course1:hover,#course2:hover,#course3:hover{background-color: blueviolet}
+
